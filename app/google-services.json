@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429635105610",
+    "project_id": "healthconnect-pro",
+    "storage_bucket": "healthconnect-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429635105610:android:bae9bcd821f7ac5e21c7b3",
+        "android_client_info": {
+          "package_name": "com.example.healthconnect_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFp--5xHuvWwa7MoETfyx_cxEqRuPa8Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
