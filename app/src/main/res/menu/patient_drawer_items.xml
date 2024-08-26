@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/Group1">
+        <item
+            android:icon="@drawable/account_circle"
+            android:id="@+id/patProfile"
+            android:title="Profile"/>
+        <item
+            android:icon="@drawable/record"
+            android:id="@+id/patMedicalRecords"
+            android:title="Medical Records"/>
+    </group>
+
+
+    <group
+        android:id="@+id/Group2">
+        <item
+            android:icon="@drawable/feedback"
+            android:id="@+id/patSettings"
+            android:title="Feedback/Suggestions"/>
+        <item
+            android:icon="@drawable/aboutus"
+            android:id="@+id/patAboutUs"
+            android:title="About Us"/>
+    </group>
+
+
+    <group
+        android:id="@+id/Group3">
+        <item
+            android:icon="@drawable/logout"
+            android:id="@+id/patLogOut"
+            android:title="Log Out"/>
+    </group>
+
+</menu>
