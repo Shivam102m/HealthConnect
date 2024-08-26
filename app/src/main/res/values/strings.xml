@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HealthConnect</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Patient">Image of Patient</string>
+    <string name="Doctor">Image of Doctor\n</string>
+    <string name="menu_home">Menu Home\n</string>
+    <string name="nav_open">Nav menu Opens</string>
+    <string name="nav_close">Nav menu closes</string>
+</resources>

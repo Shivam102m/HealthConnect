@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="selected_date_background">#FFC107</color>
+    <color name="selected_button_color">#FFC107</color>
+    <color name="button_color">#E8DFDF</color>
+    <color name="default_button_color">#E8DFDF</color>
+    <color name="cv_text_color">#faf0ca</color>
+    <color name="cv_background_color">#0b2027</color>
+
+</resources>
